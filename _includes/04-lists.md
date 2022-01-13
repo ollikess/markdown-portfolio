@@ -1,1 +1,4 @@
-Replace this with a list of your favorite things.
+1. Money 💵
+2. Food 🥫
+  1. Pizza 🍕
+  2. Popcorn 🍿
